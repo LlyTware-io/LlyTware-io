@@ -1,17 +1,23 @@
-<h2 align="center">👩‍💻 ¡Hola! Soy LlyTware</h2>
-<p align="center"><b>💻 Desarrolladora FullStack | ☕ Java Junior | 🎨 Frontend & ⚙️ Backend 🧩</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ 👩‍💻 ¡Hola! Soy LlyTware-000000?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻 Desarrolladora FullStack | ☕ Java Junior | 🎨 Frontend & ⚙️ Backend 🧩-1E90FF?style=for-the-badge" />
+</p>
 
 ---
 <p>
-  <img src="https://img.shields.io/badge/🔹 Lenguajes & Frameworks-1E90FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔹 Lenguajes & Frameworks-1E90FF?style=for-the-badge" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,react,nodejs,js,ts,html,css,mysql" />
 </p>
 
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
-  <img src="https://img.shields.io/badge/Testing-JUnit-25A162?style=flat-square" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=java&logoColor=white" />
 </p>
 
 ---
@@ -20,9 +26,11 @@
   <img src="https://img.shields.io/badge/📊 Estadísticas-FF1493?style=for-the-badge" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LlyTware-io&show_icons=true&theme=radical&hide_border=true&title_color=FF1493&icon_color=00FF7F" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LlyTware-io&layout=compact&theme=radical&hide_border=true&title_color=FF1493" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LlyTware-io&show_icons=true&theme=radical&hide_border=true&title_color=FF1493&icon_color=00FF7F&rank_icon=github" height="150" />
 </p>
+
+
 
 ---
 
@@ -39,4 +47,7 @@
   <a href="https://tupagina.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=FF00FF" />
   </a>
+  <a href="mailto:tucorreo@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
