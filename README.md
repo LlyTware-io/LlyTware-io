@@ -1,16 +1,14 @@
-<h1 align="center" style="color:#FF1493">👩‍💻 ¡Hola! Soy LlyTware</h1>
-<p align="center" style="color:#1E90FF"><b>Desarrolladora FullStack (Frontend / Backend) | Java Junior 🧩</b></p>
+<h1 align="center">👩‍💻 ¡Hola! Soy LlyTM5</h1>
+<p align="center"><b>Desarrolladora FullStack (Frontend / Backend) | Java Junior 🧩</b></p>
 
 ---
-
-<h2 style="color:#FF1493">🚀 Tecnologías que manejo</h2>
-
-<h3 style="color:#1E90FF">🔹 Lenguajes & Frameworks</h3>
+<p>
+  <img src="https://img.shields.io/badge/🔹 Lenguajes & Frameworks-1E90FF?style=flat-square" />
+</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,nodejs,js,ts,html,css,sql,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,nodejs,js,ts,html,css,mysql" />
 </p>
 
-<h3 style="color:#1E90FF">🔹 Herramientas & Testing</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
   <img src="https://img.shields.io/badge/Testing-JUnit-25A162?style=flat-square" />
@@ -18,7 +16,9 @@
 
 ---
 
-<h2 style="color:#FF1493">📊 Estadísticas</h2>
+<p>
+  <img src="https://img.shields.io/badge/📊 Estadísticas-FF1493?style=for-the-badge" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LlyTware-io&show_icons=true&theme=radical&hide_border=true&title_color=FF1493&icon_color=00FF7F" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LlyTware-io&layout=compact&theme=radical&hide_border=true&title_color=FF1493" height="150" />
@@ -26,9 +26,10 @@
 
 ---
 
-<h2 style="color:#FF1493">📫 Contacto</h2>
+<p>
+  <img src="https://img.shields.io/badge/📫 Contacto-FF1493?style=for-the-badge" />
+</p>
 <p align="center">
-  <!-- Reemplaza las URLs por tus perfiles reales -->
   <a href="https://www.linkedin.com/in/TU-SLUG" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
