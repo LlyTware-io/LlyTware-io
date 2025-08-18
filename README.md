@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy LlyTware-io
+# ¡Hola! 👋 Soy LlyTware
 
 ### 🚀 Desarrolladora FullStack (Java Junior, Angular, React, Node.js, SpringBoot, SQL)
 
