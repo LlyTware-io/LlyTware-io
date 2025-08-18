@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/ 👩‍💻 ¡Hola! Soy LlyTware-000000?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💻 Desarrolladora FullStack | ☕ Java Junior | 🎨 Frontend & ⚙️ Backend 🧩-1E90FF?style=for-the-badge" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=2000&color=FF1493&center=true&vCenter=true&repeat=true&width=950&lines=✨+Hola%2C+soy+LlyTware+✨;💻+Desarrolladora+FullStack;☕+Java+Junior;🎨+Frontend+%26+Backend+⚙️&delete=false" style="animation: fadeInOut 8s ease-in-out infinite;" />
+</div>
 
 ---
 <p>
@@ -45,7 +41,7 @@
     <img src="https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://tupagina.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pagina WEB-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:tucorreo@example.com">
   <img src="https://img.shields.io/badge/Email-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" />
