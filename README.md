@@ -23,7 +23,7 @@
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/📊 Estadísticas-FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊 Estadísticas-1E90FF?style=for-the-badge" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LlyTware-io&layout=compact&theme=radical&hide_border=true&title_color=FF1493" height="150" />
@@ -35,19 +35,19 @@
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/🌍 Contacto-FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍 Contacto-1E90FF?style=for-the-badge" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-SLUG" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/TU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://tupagina.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=FF00FF" />
+  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:tucorreo@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
