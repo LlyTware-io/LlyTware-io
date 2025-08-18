@@ -1,5 +1,5 @@
-<h1 align="center">👩‍💻 ¡Hola! Soy LlyTware</h1>
-<p align="center"><b>Desarrolladora FullStack (Frontend / Backend) | Java Junior 🧩</b></p>
+<h2 align="center">👩‍💻 ¡Hola! Soy LlyTware</h2>
+<p align="center"><b>💻 Desarrolladora FullStack | ☕ Java Junior | 🎨 Frontend & ⚙️ Backend 🧩</b></p>
 
 ---
 <p>
@@ -27,7 +27,7 @@
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/📫 Contacto-FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍 Contacto-FF1493?style=for-the-badge" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-SLUG" target="_blank">
