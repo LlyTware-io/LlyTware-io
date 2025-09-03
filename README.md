@@ -4,7 +4,7 @@
 
 ---
 <p>
-  <img src="https://img.shields.io/badge/🔹 Hard skills-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔹 Hard skills-0F3057?style=for-the-badge" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,react,nodejs,js,ts,html,css,mysql" />
@@ -19,7 +19,7 @@
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/📊 Estadísticas-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊 Estadísticas-0F3057?style=for-the-badge" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LlyTware-io&layout=compact&theme=radical&hide_border=true&title_color=FF1493" height="150" />
@@ -31,19 +31,19 @@
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/🌍 Contacto-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍 Contacto-0F3057?style=for-the-badge" />
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-SLUG" target="_blank">
+  <a href="https://www.linkedin.com/in/desarrolladorafullstack-lilianalc/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/TU-USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://tupagina.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Pagina WEB-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pagina WEB-2E0854?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:tucorreo@example.com">
-  <img src="https://img.shields.io/badge/Email-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-B7410E?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
